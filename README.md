@@ -66,13 +66,11 @@ Created Quarter column
 Handled missing values
 Renamed columns for consistency
 📷 Dashboard Preview
-Excel Dashboard
-
-(Add your Dashboard.png screenshot here)
+<img width="1072" height="709" alt="Dashboard" src="https://github.com/user-attachments/assets/26d9565b-64ab-4205-97a9-43570135b1d6" />
 
 Power Query Transformation
+<img width="1920" height="1018" alt="Powerquery" src="https://github.com/user-attachments/assets/f88a473b-9248-464f-868d-df90682fcd71" />
 
-(Add your Powerquery.png screenshot here)
 
 📁 Dataset Information
 
