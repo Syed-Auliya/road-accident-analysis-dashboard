@@ -6,7 +6,7 @@ This project analyzes road accident data to identify casualty trends, accident s
 
 The dashboard was developed using Microsoft Excel, Power Query, Pivot Tables, Pivot Charts, and Interactive Slicers to transform raw accident records into actionable business insights.
 
- ##Business Objective
+ ## Business Objective
 
 The objective of this project is to:
 
