@@ -1,6 +1,6 @@
 # Road-accident-analysis-dashboard
-##Road Accident Analysis Dashboard
-##Project Overview
+
+## Project Overview
 
 This project analyzes road accident data to identify casualty trends, accident severity patterns, vehicle involvement, road conditions, and environmental factors affecting road safety.
 
@@ -16,7 +16,7 @@ Identify high-risk vehicle categories
 Analyze accident distribution by road type
 Understand the impact of weather, surface, and lighting conditions
 Support road safety decision-making through data-driven insights
-🛠 Tools & Technologies
+## Tools & Technologies
 Microsoft Excel
 Power Query
 Pivot Tables
@@ -24,7 +24,7 @@ Pivot Charts
 Slicers & Timelines
 Data Cleaning & Transformation
 Data Visualization
-📊 Dashboard KPIs
+## Dashboard KPIs
 
 The dashboard tracks:
 
@@ -38,7 +38,7 @@ Casualties by Surface Condition
 Casualties by Light Condition
 Area-wise Casualties (Urban vs Rural)
 Current Year vs Previous Year Trends
-📈 Key Insights
+## Key Insights
 Severity Analysis
 Slight accidents contribute the highest share of total casualties.
 Fatal accidents account for a very small percentage but represent the most critical road safety concern.
@@ -53,7 +53,7 @@ Most accidents occur during daylight conditions.
 Wet road surfaces show higher casualty counts compared to icy roads.
 Geographic Analysis
 Urban areas record significantly more casualties than rural areas.
-🔄 Data Cleaning Process
+## Data Cleaning Process
 
 The dataset was transformed using Power Query:
 
