@@ -1,5 +1,6 @@
 # Road-accident-analysis-dashboard
-
+## Note: The original dataset contains 400K+ records.
+A sample dataset is included due to GitHub file size limitations.
 ## Project Overview
 
 This project analyzes road accident data to identify casualty trends, accident severity patterns, vehicle involvement, road conditions, and environmental factors affecting road safety.
